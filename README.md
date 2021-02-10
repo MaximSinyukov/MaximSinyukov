@@ -22,11 +22,11 @@
 
 ## :bar_chart: Моя статистика:
 
-<div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MaximSinyukov&hide=contribs&show_icons=true&theme=dark" height="150">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  align="left" height="125" style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api?username=MaximSinyukov&hide=contribs&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyukov&theme=dark&layout=compact" height="150">
+    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyukov&theme=dark&layout=compact" />
   </a>
 </div>
