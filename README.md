@@ -46,6 +46,10 @@
     style="margin-right: 5px;"
     alt="GitHub">
     <img
+    src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"
+    style="margin-right: 5px;"
+    alt="GitLab">
+    <img
     src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint"
     style="margin-right: 5px;"
     alt="ESlint">
