@@ -1,7 +1,8 @@
-### Привет!
-### Меня зовут Максим 👋
+### Hi!
+### My name is Max👋
+Nice to meet you. Here is a little corner of my trial and error and all sorts of fun features. What's new with you?)
 
-## :rocket: Мой стек:
+## :rocket: My stack:
 <div style="display: flex; flex-direction: row;">
     <img
     src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" style="margin-right: 5px;"
@@ -58,7 +59,7 @@
     alt="VScode">
 </div>
 
-## :bar_chart: Моя статистика:
+## :bar_chart: My stats:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
